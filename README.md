@@ -14,3 +14,4 @@ Command: cd "C:\Path\To\DownloadedScript"
 
 4. Run the Cortex Removal Script:
 Command: .\Cortex Removal.ps1
+ 
